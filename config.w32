@@ -1,0 +1,9 @@
+// $ Id: $
+// vim:ft=javascript
+
+ARG_WITH('usb', 'libusb wrapper for PHP', 'no');
+
+if (PHP_USB == "yes") {
+  EXTENSION("usb", "usb.c");
+  AC_DEFINE("HAVE_USB", 1, "usb support");
+}

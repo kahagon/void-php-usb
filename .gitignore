@@ -78,3 +78,5 @@ want_dependencies
 x64
 stamp-h.in
 scan_makefile_in.awk
+
+nbproject

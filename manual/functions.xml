@@ -1,0 +1,11 @@
+ &reference.usb.functions.usb-exit;
+ &reference.usb.functions.usb-get-active-config-descriptor;
+ &reference.usb.functions.usb-get-config-descriptor;
+ &reference.usb.functions.usb-get-config-descriptor-by-value;
+ &reference.usb.functions.usb-get-descriptor;
+ &reference.usb.functions.usb-get-device;
+ &reference.usb.functions.usb-get-device-descriptor;
+ &reference.usb.functions.usb-get-string-descriptor;
+ &reference.usb.functions.usb-get-string-descriptor-ascii;
+ &reference.usb.functions.usb-init;
+ &reference.usb.functions.usb-open-device-with-vid-pid;
